@@ -1,0 +1,3 @@
+[console_scripts]
+invaders = invaders.__main__:main
+

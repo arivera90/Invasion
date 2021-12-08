@@ -1,0 +1,11 @@
+README.md
+setup.py
+invaders/__init__.py
+invaders/__main__.py
+invaders/game.py
+invaders.egg-info/PKG-INFO
+invaders.egg-info/SOURCES.txt
+invaders.egg-info/dependency_links.txt
+invaders.egg-info/entry_points.txt
+invaders.egg-info/requires.txt
+invaders.egg-info/top_level.txt
